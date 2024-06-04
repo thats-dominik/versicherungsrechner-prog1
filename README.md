@@ -2,6 +2,7 @@
 
 ## Inhaltsverzeichnis
 - [Projektbeschreibung](#projektbeschreibung)
+- [Screenshots](#screenshots)
 - [Installation](#installation)
 - [Projektstruktur](#projektstruktur)
 - [Verwendete Technologien](#verwendete-technologien)
@@ -17,6 +18,28 @@
 ## Projektbeschreibung
 
 Insurica ist ein React-basiertes Webprojekt, das es Benutzern ermöglicht, ihre Autoversicherungsprämie zu berechnen. Das Projekt umfasst mehrere Schritte, in denen Benutzer persönliche Daten, Fahrzeugdetails, Versicherungsdetails und Finanzierungsdetails eingeben können. Basierend auf diesen Eingaben werden die jährliche Versicherungsprämie und die Gesamtkreditkosten berechnet.
+
+## Screenshots
+### Landing Page
+<img width="1235" alt="Bildschirmfoto 2024-06-05 um 00 23 15" src="https://github.com/thats-dominik/versicherungsrechner-prog1/assets/129942592/e851a1a0-c050-4f68-9a71-04d309cb41fa">
+
+### Page 1
+
+<img width="1232" alt="Bildschirmfoto 2024-06-05 um 00 24 54" src="https://github.com/thats-dominik/versicherungsrechner-prog1/assets/129942592/20a7e5da-fd5a-4952-97e4-3be022e147af">
+
+### Page 2
+
+<img width="1233" alt="Bildschirmfoto 2024-06-05 um 00 25 24" src="https://github.com/thats-dominik/versicherungsrechner-prog1/assets/129942592/03d98d11-19d1-4c93-b3de-7268f0bafd48">
+
+### Page 3...
+
+### Page Summary
+<img width="1235" alt="Bildschirmfoto 2024-06-05 um 00 26 53" src="https://github.com/thats-dominik/versicherungsrechner-prog1/assets/129942592/03491a9b-0220-4b2f-82f5-400864eaa71f">
+
+### Page Calculated
+
+<img width="1236" alt="Bildschirmfoto 2024-06-05 um 00 27 46" src="https://github.com/thats-dominik/versicherungsrechner-prog1/assets/129942592/60c3f247-65b1-4a0b-bf93-773403be3d29">
+
 
 ## Installation
 
