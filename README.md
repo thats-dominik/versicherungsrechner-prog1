@@ -21,9 +21,9 @@ Insurica ist ein React-basiertes Webprojekt, das es Benutzern ermöglicht, ihre 
 ## Installation
 
 1. Klonen Sie das Repository:
-   ```sh 
+```sh 
 git clone https://github.com/thats-dominik/insurica.git
-	```
+```
 	
 2. Wechseln Sie in das Projektverzeichnis:
 ```sh
