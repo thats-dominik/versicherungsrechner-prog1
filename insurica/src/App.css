@@ -1,0 +1,260 @@
+@font-face {
+  font-family: "Light"; 
+  src: local("Raleway-Light"),
+      url("./assets/fonts/Raleway/Raleway-Light.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "XtraLight";
+  src: local("Raleway-ExtraLight"),
+      url("./assets/fonts/Raleway/Raleway-ExtraLight.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Thin"; 
+  src: local("Raleway-Thin"),
+      url("./assets/fonts/Raleway/Raleway-Thin.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Regular"; 
+  src: local("Raleway-Regular"),
+      url("./assets/fonts/Raleway/Raleway-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "Bold"; 
+  src: local("Raleway-Bold"),
+      url("./assets/fonts/Raleway/Raleway-Bold.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: "XtraBold"; 
+  src: local("Raleway-ExtraBold"),
+      url("./assets/fonts/Raleway/Raleway-ExtraBold.ttf") format("truetype");
+}
+body {
+  font-family: 'Thin';
+  background-color: #303F52;
+  color: #eec947;
+  margin: 0;
+  padding: 0;
+  text-align: center;
+}
+
+header {
+  padding: 2rem;
+  text-align: center;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+header h1 {
+  font-family: 'Bold';
+  letter-spacing: 2rem;
+  margin: 0;
+  margin-bottom: 1.4rem;
+  margin-left: 1.8rem;
+  font-size: 3rem;
+  color: #eec947;
+}
+
+header h2 {
+  margin: 0;
+  font-size: 2rem;
+  color: #eec947;
+  letter-spacing: 0.8rem;
+}
+
+.slogan {
+  letter-spacing: 0.5rem;
+  font-size: 1.6rem;
+  margin: 1rem 0 1rem;
+  color: #eec947;
+}
+
+button {
+  font-family: "XtraLight";
+  letter-spacing: 0.2rem;
+  padding: 0.75rem 1.2rem;
+  background-color: #303f52;
+  border: 1px solid #eec947;
+  border-radius: 4px;
+  font-size: 1.2rem;
+  color: #eec947;
+  cursor: pointer;
+  margin: 1rem 0;
+}
+
+button:hover {
+  background-color: #eec947;
+  color: #303f52;
+}
+
+.car-image {
+  width: 50%;
+  margin-top: 2rem;
+}
+
+.step-section {
+  padding: 2rem;
+  background-color: #303F52;
+  color: #eec947;
+  height: 90vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.step-section h3 {
+  font-family: 'Bold';
+  font-size: 2rem;
+  margin-bottom: 1rem;
+  letter-spacing: 0.1em;
+}
+
+.section-subtitle {
+  font-family: 'XtraLight';
+  font-size: 1.5rem;
+  margin-bottom: 2rem;
+  letter-spacing: 0.1em;
+}
+
+form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  width: 80%;
+  max-width: 600px;
+}
+
+.form-group {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  width: 100%;
+  position: relative;
+}
+
+label {
+  font-family: 'Regular';
+  font-size: 1.2rem;
+  margin: 0.5rem 0;
+  width: 50%;
+  text-align: left;
+}
+
+input[type="number"], input[type="text"], select {
+  font-family: 'Regular';
+  font-size: 1rem;
+  padding: 0.5rem;
+  margin: 0.5rem 0;
+  width: 50%;
+  background-color: #303f52;
+  border: 1px solid #eec947;
+  color: #eec947;
+  border-radius: 4px;
+}
+
+input:focus, select:focus {
+  outline: none;
+  border-color: #eec947;
+}
+
+input[type="number"].error, input[type="text"].error, select.error {
+  border-color: red;
+}
+
+.error-message {
+  color: red;
+  font-size: 0.8rem;
+  display: none;
+  position: absolute;
+  right: 0;
+}
+
+.radio-group {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 50%;
+}
+
+.radio-option {
+  cursor: pointer;
+  font-family: 'Regular';
+  font-size: 1rem;
+  padding: 0.5rem;
+}
+
+.radio-option.selected {
+  font-family: 'XtraBold';
+}
+
+hr {
+  width: 100%;
+  border: 0;
+  border-top: 1px solid #eec947;
+  margin: 1rem 0;
+}
+
+form button {
+  font-family: "XtraLight";
+  letter-spacing: 0.2rem;
+  padding: 0.75rem 1.2rem;
+  background-color: #303f52;
+  border: 1px solid #eec947;
+  border-radius: 4px;
+  font-size: 1.2rem;
+  color: #eec947;
+  cursor: pointer;
+  margin: 2rem 0 0;
+}
+
+form button:hover {
+  background-color: #eec947;
+  color: #303f52;
+}
+
+#summary {
+  width: 80%;
+  max-width: 600px;
+  text-align: left;
+}
+
+.summary-item {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+
+.summary-item strong {
+  width: 10%;
+}
+
+.summary-item p {
+  width: 90%;
+  margin: 0;
+}
+
+#summary button {
+  display: block;
+  margin: 2rem auto;
+}
+
+#result {
+  font-family: 'Regular';
+  font-size: 1.5rem;
+  margin-top: 2rem;
+}
+
+.action-buttons {
+  display: flex;
+  justify-content: center;
+  gap: 2rem;
+  margin-top: 2rem;
+}
