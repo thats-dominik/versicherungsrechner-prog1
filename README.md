@@ -45,7 +45,7 @@ Insurica ist ein React-basiertes Webprojekt, das es Benutzern ermöglicht, ihre 
 
 1. Klonen Sie das Repository:
 ```sh 
-git clone https://github.com/thats-dominik/insurica.git
+git clone https://github.com/thats-dominik/versicherungsrechner-prog1.git
 ```
 	
 2. Wechseln Sie in das Projektverzeichnis:
