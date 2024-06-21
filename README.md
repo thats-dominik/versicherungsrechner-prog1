@@ -3,6 +3,7 @@
 ## Inhaltsverzeichnis
 - [Projektbeschreibung](#projektbeschreibung)
 - [Screenshots](#screenshots)
+- [Design](#design)
 - [Installation](#installation)
 - [Projektstruktur](#projektstruktur)
 - [Verwendete Technologien](#verwendete-technologien)
@@ -13,6 +14,7 @@
   - [Benutzerdefinierte Selbstbeteiligung](#benutzerdefinierte-selbstbeteiligung)
   - [Logoerstellung](#logoerstellung)
 - [Detailierter Planungsverlauf](#detailierter-planungsverlauf)
+- [Selbstreflexion](#selbstreflexion)
 - [Autor](#autor)
 
 ## Projektbeschreibung
@@ -40,6 +42,10 @@ Insurica ist ein React-basiertes Webprojekt, das es Benutzern ermöglicht, ihre 
 
 <img width="1236" alt="Bildschirmfoto 2024-06-05 um 00 27 46" src="https://github.com/thats-dominik/versicherungsrechner-prog1/assets/129942592/60c3f247-65b1-4a0b-bf93-773403be3d29">
 
+## Design
+
+Der Link folgt zum Figma-Design, welches als Leitfaden und Wireframe verwendet wurde.
+<a href="https://www.figma.com/design/FDPHOcUmV2WOHDUdBMpcXb/Insurica-Figma?node-id=0-1&t=nKOdHqqB5XfRGV7B-1">Figma-Project</a>
 
 ## Installation
 
@@ -280,6 +286,10 @@ Ein einfaches und elegantes Logo für "Insurica" wurde erstellt, das die Farben 
 6. **Logoerstellung**:
     
     - Ein Logo für "Insurica" wurde entworfen und in das Projekt integriert.
+  
+## Selbstreflexion
+
+Ich bin der Meinung das ich das Projekt gut umgesetzt habe. Ich habe einerseits eine gescheite Berechnung als auch ein ästethisches Design verwendet und ein paar extra Features eingebaut. Jedoch müsste ich noch mir selber angewöhnen, eine bessere Vorplanung zu machen und auch mit dem Miro-Board zu arbeiten, da ich dies vernachlässigt habe.
 
 ## Autor
 
