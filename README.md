@@ -15,6 +15,7 @@
   - [Logoerstellung](#logoerstellung)
 - [Detailierter Planungsverlauf](#detailierter-planungsverlauf)
 - [Selbstreflexion](#selbstreflexion)
+- [Deployment](#deployment)
 - [Autor](#autor)
 
 ## Projektbeschreibung
@@ -290,6 +291,10 @@ Ein einfaches und elegantes Logo für "Insurica" wurde erstellt, das die Farben 
 ## Selbstreflexion
 
 Ich bin der Meinung das ich das Projekt gut umgesetzt habe. Ich habe einerseits eine gescheite Berechnung als auch ein ästethisches Design verwendet und ein paar extra Features eingebaut. Jedoch müsste ich noch mir selber angewöhnen, eine bessere Vorplanung zu machen und auch mit dem Miro-Board zu arbeiten, da ich dies vernachlässigt habe.
+
+## Deployment
+
+https://versicherungsrechner-prog1.vercel.app/
 
 ## Autor
 
